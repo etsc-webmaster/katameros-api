@@ -106,3 +106,12 @@ Or
 
 [SQLITE Database](https://github.com/pierresaid/katameros-api/blob/master/Core/KatamerosDatabase.db)
 
+
+docker
+
+# Build the image
+docker build -t katameros-api .
+
+# Run the container
+docker run -p 5000:8080 katameros-api
+
