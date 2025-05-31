@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: katameros-api
+    env: dotnet
+    buildCommand: dotnet publish API/Katameros.sln -c Release -o out
+    startCommand: dotnet out/Katameros.dll
+    healthCheckPath: /health
+    envVars:
+      - key: ASPNETCORE_ENVIRONMENT
+        value: Production
+      - key: ASPNETCORE_URLS
+        value: http://0.0.0.0:$PORT
