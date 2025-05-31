@@ -1,10 +1,8 @@
 services:
   - type: web
     name: katameros-api
-    env: dotnet
-    buildCommand: dotnet publish API/Katameros.sln -c Release -o out
-    startCommand: dotnet out/Katameros.dll
-    healthCheckPath: /health
+    runtime: docker
+    dockerfilePath: ./Dockerfile
     envVars:
       - key: ASPNETCORE_ENVIRONMENT
         value: Production
