@@ -1,0 +1,15 @@
+/home/runner/workspace/Core/bin/Debug/net7.0/KatamerosDatabase.db
+/home/runner/workspace/Core/bin/Debug/net7.0/Katameros.deps.json
+/home/runner/workspace/Core/bin/Debug/net7.0/Katameros.runtimeconfig.json
+/home/runner/workspace/Core/bin/Debug/net7.0/Katameros.dll
+/home/runner/workspace/Core/bin/Debug/net7.0/Katameros.pdb
+/home/runner/workspace/Core/obj/Debug/net7.0/Katameros.csproj.AssemblyReference.cache
+/home/runner/workspace/Core/obj/Debug/net7.0/Katameros.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/workspace/Core/obj/Debug/net7.0/Katameros.AssemblyInfoInputs.cache
+/home/runner/workspace/Core/obj/Debug/net7.0/Katameros.AssemblyInfo.cs
+/home/runner/workspace/Core/obj/Debug/net7.0/Katameros.csproj.CoreCompileInputs.cache
+/home/runner/workspace/Core/obj/Debug/net7.0/Katameros.dll
+/home/runner/workspace/Core/obj/Debug/net7.0/refint/Katameros.dll
+/home/runner/workspace/Core/obj/Debug/net7.0/Katameros.pdb
+/home/runner/workspace/Core/obj/Debug/net7.0/Katameros.genruntimeconfig.cache
+/home/runner/workspace/Core/obj/Debug/net7.0/ref/Katameros.dll
